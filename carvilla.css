@@ -218,7 +218,7 @@ text-align: center;
 }
 .second-pro p{
     font-family: 'poppins-bold', sans-serif;
-    color: brown;
+    color: rgb(19, 1, 1);
     
 }
 .second-pro:hover{
@@ -265,7 +265,7 @@ text-align: center;
     padding-bottom: 50px;
 }
 .second-proj p{
-    color: brown;
+    color: rgb(18, 1, 1);
     font-family: 'poppins-bold', sans-serif;
 }
 .second-proj .verticle-line{
@@ -291,7 +291,7 @@ text-align: center;
     color: rgb(1, 45, 1);
 }
 .second-pr p{
-    color:brown;
+    color:rgb(23, 1, 1);
     font-family: 'poppins-bold', sans-serif;
 }
 .fa-car-rear{
